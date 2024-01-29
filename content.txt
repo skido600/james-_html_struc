@@ -1,0 +1,102 @@
+1) --- HOME ---
+
+Main Heading: 
+Welcome to Good Recipes - Your Culinary Adventure Begins Here!
+
+Heading: Explore, Create, Savor: Unleash Your Inner Chef!
+
+Content: 
+At Good Recipes, we believe that the heart of every home is its kitchen. Whether you're a seasoned chef or a kitchen novice, our mission is to inspire your culinary journey with mouthwatering recipes, expert tips, and a dash of creativity. Get ready to embark on a flavorful adventure that will tantalize your taste buds and elevate your cooking skills.
+
+Heading:
+Discover a World of Delectable Recipes
+
+Content:
+From classic comfort foods to exotic international cuisines, our extensive collection of recipes caters to all tastes and skill levels. Explore step-by-step instructions, ingredient lists, and helpful tips that guarantee success in your kitchen endeavors. Whether you're craving a cozy soup, a show-stopping dessert, or a quick weeknight dinner, Good Recipes has you covered.
+
+Heading:
+Join Our Community: Share, Learn, Connect
+
+Content:
+Become a part of our vibrant community of food enthusiasts. Share your own culinary creations, ask for advice, and connect with like-minded individuals who share your passion for all things food. Whether you're a seasoned pro or just starting your culinary journey, our community is a welcoming space to exchange ideas, tips, and recipes.
+
+Start Exploring Now!
+
+2) --- FEATURED RECIPE (Beef Tacos) ---
+
+Main Heading:
+Delicious Taco Recipe
+
+Introduction:
+Are you craving some delicious, mouth-watering tacos? Whether you're a seasoned chef or a kitchen newbie, our easy-to-follow taco recipe is here to guide you to a delightful meal. Packed with flavor, each bite offers a satisfying mix of savory, spicy, and fresh. Let's bring the iconic street-food experience right to your dining table. Dive in and let's get cooking!
+
+
+Heading:
+Ingredients
+
+Ingredient                  Quantity
+
+Ground beef                 500 grams
+Taco seasoning              1 packet
+Soft or hard taco shells    8 shells
+Grated cheese               1 cup
+Lettuce (chopped)           2 cups
+Tomatoes (diced)            2 tomatoes
+Sour cream                  1/2 cup
+
+
+Heading: 
+Instructions
+
+In a pan over medium heat, cook the ground beef until browned. Drain the excess fat.
+Add the taco seasoning to the beef and cook according to the packet's instructions.
+While the beef is cooking, prepare the taco shells according to the package directions.
+Once the beef is ready, spoon it into each taco shell.
+Top with cheese, lettuce, tomatoes, and sour cream as desired.
+Serve immediately and enjoy!
+
+Heading:
+
+Tips
+For a spicier kick, add some jalapeños or hot sauce.
+Experiment with other toppings like guacamole, olives, or bell peppers for variety.
+
+
+
+3) --- Favorites PAGE ---
+
+Main heading:
+
+Tasty Recipes
+    
+Introduction:
+
+Embark on a culinary journey like no other as you explore our carefully curated collection of recipes. Each dish promises to be a new stop on your taste map, blending traditions, techniques, and ingredients from various cuisines to offer an unforgettable flavor experience. From savory delights to sweet temptations, there's a destination for every palate.
+
+Whether you're a passionate home cook or someone just beginning to discover the joys of cooking, our recipes cater to all skill levels. We believe in the magic of a shared meal and the stories it can tell. So, gather your ingredients, don your apron, and let's set sail on this flavor-filled adventure together!
+            
+
+Recipes: 
+
+Spiced Quinoa Salad 
+                
+Overview: Dive into a refreshing yet hearty salad that's a perfect blend of tang, spice, and everything nice. Our Spiced Quinoa Salad combines protein-packed quinoa with a melange of crunchy veggies, sweet raisins, and a zesty lemon dressing. Topped off with roasted nuts and feta, it's a delightful dish that's both nutritious and full of flavor. Ideal for those seeking a light lunch or a vibrant side dish. 
+
+View the recipe (URL: https://www.allrecipes.com)
+               
+           
+Creamy Mushroom Risotto
+
+Overview:Indulge in the rich, velvety flavors of our Creamy Mushroom Risotto, a classic Italian delight with a twist. This dish showcases buttery mushrooms sautéed to perfection, enveloped in a creamy Arborio rice blend. Infused with white wine and garnished with fresh parsley and parmesan, it's a comforting meal that warms the soul on any day.
+
+View the recipe (URL: https://www.allrecipes.com)
+
+
+Coconut Mango Mousse
+
+Overview:Whisk your taste buds away to a tropical paradise with our Coconut Mango Mousse. This dreamy dessert offers layers of lush mango purée and fluffy coconut cream, creating a symphony of sweet and tangy notes. Garnished with toasted coconut flakes and a sprig of mint, it's the perfect sweet treat for summer days or when you're simply dreaming of a beach escape.</p>
+
+View the recipe (URL: https://www.allrecipes.com)
+ 
+
+Footer: Good Food Recipes - Photo Credits: Unsplash. Content: allrecipes.com & ChatGPT
